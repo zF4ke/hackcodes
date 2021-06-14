@@ -1,6 +1,6 @@
 # Hackcodes
 
-This is a website created to support an XSS for https://codenames.game/.
+This is a website created to support a XSS for https://codenames.game/.
 
 ## Script
 
